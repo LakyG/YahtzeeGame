@@ -1,0 +1,11 @@
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe.config
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.pdb
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csprojAssemblyReference.cache
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Properties.Resources.resources
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csproj.GenerateResource.cache
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csproj.CoreCompileInputs.cache
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.exe
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.pdb
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Game.resources
+C:\Users\qj87wf\Desktop\CSharp Tutorial\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.EndGameDialogue.resources
